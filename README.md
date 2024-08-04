@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ananya Srivastava</h1>
-<h3 align="center">An undergraduate student at Purdue university studying Data Science and Applied Statistics</h3>
+<h1 align="center">Hey 👋, I'm Ananya </h1>
+<h3 align="center">An undergraduate student at Purdue University studying Data Science and Applied Statistics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyo49&label=Profile%20views&color=0e75b6&style=flat" alt="ananyo49" /> </p>
 
