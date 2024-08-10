@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyo49&label=Profile%20views&color=0e75b6&style=flat" alt="ananyo49" /> </p>
 
-- 👨‍💻 Check out my portfolio at [https://ananyo49.github.io/ananya-portfolio/](https://ananyo49.github.io/ananya-portfolio/)
+- 👨‍💻 Check out my portfolio at [https://ananyo49.github.io/](https://ananyo49.github.io/)
 
 - 📫 How to reach me **ananyasri.business@gmail.com**
 
