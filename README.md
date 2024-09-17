@@ -1,5 +1,5 @@
 <h1 align="center">hey, i'm ananya </h1>
-<h3 align="center"> currently studying data science & stats at purdue university</h3>
+<h3 align="center"> i'm currently studying data science & stats at purdue university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyo49&label=Profile%20views&color=0e75b6&style=flat" alt="ananyo49" /> </p>
 
