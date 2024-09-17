@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋, I'm Ananya </h1>
-<h3 align="center"> Student at Purdue University studying Data Science + Applied Statistics</h3>
+<h1 align="center">Hey, I'm Ananya </h1>
+<h3 align="center"> Studying Data Science and Statistics at Purdue University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyo49&label=Profile%20views&color=0e75b6&style=flat" alt="ananyo49" /> </p>
 
-- 👨‍💻 Check out my portfolio at [https://ananyo49.github.io/](https://ananyo49.github.io/)
+- 👨‍💻 Portfolio: [https://ananyo49.github.io/](https://ananyo49.github.io/)
 
-- 📫 How to reach me **ananyasri.business@gmail.com**
+- 📫 Contact me: **ananyasri.business@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
