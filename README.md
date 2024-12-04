@@ -5,7 +5,7 @@
 
 - 👨‍💻 check out my portfolio: [https://ananyo49.github.io/](https://ananyo49.github.io/)
 
-- 📫 get in touch with me: **ananyasri.business@gmail.com**
+- 📫 get in touch with me: **sriva162@purdue.edu**
 
 <h3 align="left">my socials:</h3>
 <p align="left">
